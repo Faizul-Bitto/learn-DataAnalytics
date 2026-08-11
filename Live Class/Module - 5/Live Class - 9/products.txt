@@ -1,0 +1,16 @@
+ProductID|ProductName|Category|UnitPrice|UnitCost
+P001|Laptop|Electronics|50000|42000
+P002|Monitor|Electronics|18000|15000
+P003|Keyboard|Electronics|1200|800
+P004|Mouse|Electronics|800|500
+P005|Printer|Electronics|22000|18000
+P006|Scanner|Electronics|15000|12000
+P007|Router|Electronics|5000|3500
+P008|SSD|Electronics|9000|7000
+P009|HDD|Electronics|6500|5000
+P010|Projector|Electronics|45000|38000
+P011|Tablet|Electronics|30000|25000
+P012|UPS|Electronics|7000|5500
+P013|Webcam|Electronics|2500|1800
+P014|Speaker|Electronics|3500|2500
+P015|Server|Electronics|120000|100000
