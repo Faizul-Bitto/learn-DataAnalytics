@@ -1,0 +1,62 @@
+[
+  {
+    "StoreID": "S01",
+    "StoreName": "Sales Point 01",
+    "Region": "Central",
+    "Channel": "Dealer"
+  },
+  {
+    "StoreID": "S02",
+    "StoreName": "Sales Point 02",
+    "Region": "East",
+    "Channel": "Corporate"
+  },
+  {
+    "StoreID": "S03",
+    "StoreName": "Sales Point 03",
+    "Region": "North",
+    "Channel": "Direct"
+  },
+  {
+    "StoreID": "S04",
+    "StoreName": "Sales Point 04",
+    "Region": "South",
+    "Channel": "Dealer"
+  },
+  {
+    "StoreID": "S05",
+    "StoreName": "Sales Point 05",
+    "Region": "West",
+    "Channel": "Corporate"
+  },
+  {
+    "StoreID": "S06",
+    "StoreName": "Sales Point 06",
+    "Region": "Central",
+    "Channel": "Direct"
+  },
+  {
+    "StoreID": "S07",
+    "StoreName": "Sales Point 07",
+    "Region": "East",
+    "Channel": "Dealer"
+  },
+  {
+    "StoreID": "S08",
+    "StoreName": "Sales Point 08",
+    "Region": "North",
+    "Channel": "Corporate"
+  },
+  {
+    "StoreID": "S09",
+    "StoreName": "Sales Point 09",
+    "Region": "South",
+    "Channel": "Direct"
+  },
+  {
+    "StoreID": "S10",
+    "StoreName": "Sales Point 10",
+    "Region": "West",
+    "Channel": "Dealer"
+  }
+]
